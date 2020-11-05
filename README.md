@@ -17,3 +17,7 @@ Basicamente o desafio é prever a compra do cliente dado um histórico de ativid
 ## Licença
 
 Atualmente GNU v3
+
+## Observação quanto a competição
+
+Em momento de competição o repositório estara sempre defasado em um commit.
